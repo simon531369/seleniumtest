@@ -9,9 +9,7 @@
         <name>Virtual University</name>
         <url>http://maven.apache.org</url>
         
-	<properties>
-		<project.build.sorceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties>
+	
 		
 <build>
     <plugins>
